@@ -9,8 +9,7 @@ fully responsive.
 
 
 ## Demo
-
-Insert gif or link to demo
+![Alt text](./newszilla.png?raw=true "NewsZilla daily news")
 
 
 ## Acknowledgements
