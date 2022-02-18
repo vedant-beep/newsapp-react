@@ -1,0 +1,36 @@
+{
+  "status": "ok",
+  "totalResults": 3,
+  "articles": [
+    {
+      "source": { "id": null, "name": "NDTV News" },
+      "author": null,
+      "title": "Bappi Lahiri, Bollywood's Disco Legend, Dies At 69 - NDTV Movies",
+      "description": "Bappi Lahiri died in a hospital in Mumbai last night at the age of 69",
+      "url": "https://www.ndtv.com/entertainment/bappi-lahiri-pioneer-of-disco-in-bollywood-dies-at-69-2770864",
+      "urlToImage": "https://c.ndtvimg.com/2022-02/8fvres4g_bappi-lahiri_625x300_16_February_22.jpg",
+      "publishedAt": "2022-02-16T03:46:00Z",
+      "content": "A file photo of Bappi Lahiri. (courtesy: bappilahiri_official_)\r\nHighlights\r\n<ul><li>Bappi Lahiri died in Mumbai\r\n</li><li> He died at the age of 69\r\n</li><li> He died in a hospital in Mumbai last ni… [+2688 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Hindustan Times" },
+      "author": "HT Entertainment Desk",
+      "title": "Inside Shilpa Shetty’s daughter Samisha’s birthday bash: Raqesh Bapat feeds her cake, Shamita Shetty gives a hug - Hindustan Times",
+      "description": "Shilpa Shetty and Raj Kundra celebrated Samisha's birthday on Tuesday. Their son Viaan, Shamita Shetty, Raqesh Bapat and Sunanda Shetty also attended the celebrations. Check out the pictures here. | Bollywood",
+      "url": "https://www.hindustantimes.com/entertainment/bollywood/inside-shilpa-shetty-s-daughter-samisha-s-birthday-bash-raqesh-bapat-feeds-her-cake-shamita-shetty-gives-a-hug-101644950574884.html",
+      "urlToImage": "https://images.hindustantimes.com/img/2022/02/15/1600x900/shilpa_shetty_1644950782675_1644950800910.jpg",
+      "publishedAt": "2022-02-16T02:04:19Z",
+      "content": "Actor Shilpa Shetty and her husband Raj Kundra celebrated the second birthday of their daughter Samisha on Tuesday. Apart from Shilpa, Raj and their nine-year-old son Viaan, Shamita Shetty, Raqesh Ba… [+2382 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Hindustan Times" },
+      "author": "HT Entertainment Desk",
+      "title": "Alia Bhatt reacts to viewers finding ‘reflection of’ Kangana Ranaut in her Gangubai Kathiawadi performance - Hindustan Times",
+      "description": "Alia Bhatt reacted to a compliment likening her performance in Gangubai Kathiawadi to National Award-winning actors Kangana Ranaut and Vidya Balan. | Bollywood",
+      "url": "https://www.hindustantimes.com/entertainment/bollywood/alia-bhatt-reacts-to-viewers-finding-reflection-of-kangana-ranaut-in-her-gangubai-kathiawadi-performance-101644925479123.html",
+      "urlToImage": "https://images.hindustantimes.com/img/2022/02/15/1600x900/kangana-alia_1618987437475_1644925552538.jpg",
+      "publishedAt": "2022-02-15T11:55:21Z",
+      "content": "Alia Bhatt, who plays the titular role in Gangubai Kathiawadi, opened up about comparisons with Kangana Ranaut and Vidya Balan. In an interview, Alia was told that though there was some initial resis… [+2231 chars]"
+    }
+  ]
+}
